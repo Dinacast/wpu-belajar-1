@@ -1,4 +1,5 @@
 membuat website 
 
 - membuat web sendiri
+* bisa menguasai html,css
 - bisa berguna
