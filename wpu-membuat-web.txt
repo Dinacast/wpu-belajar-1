@@ -1,4 +1,5 @@
 membuat website 
 
 - membuat web sendiri
+* bisa menguasai java script dan pyton
 - bisa berguna
