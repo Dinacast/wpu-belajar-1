@@ -5,4 +5,5 @@ membuat website
 - bisa berguna
 - 1
 - Membuat Java Script Framework
-- Struktur data dasar
+- Struktur data dasr
+- bisa menghafal HTML, CSS,
