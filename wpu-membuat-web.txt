@@ -3,3 +3,4 @@ membuat website
 - membuat web sendiri
 * bisa menguasai html,css
 - bisa berguna
+- bisa menghafal HTML, CSS, dan JavaScript
