@@ -3,4 +3,4 @@ membuat website
 - membuat web sendiri
 * menambahkan java script dan pyton
 - bisa berguna
-- 1
+- bisa menghafal HTML, CSS,
