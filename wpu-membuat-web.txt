@@ -3,4 +3,7 @@ membuat website
 - membuat web sendiri
 * menambahkan java script dan pyton
 - bisa berguna
+- 1
+- Membuat Java Script Framework
+- Struktur data dasr
 - bisa menghafal HTML, CSS,
