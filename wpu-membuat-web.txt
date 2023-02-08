@@ -1,6 +1,6 @@
 membuat website 
 
 - membuat web sendiri
-* bisa menguasai html,css
+* menambahkan java script dan pyton
 - bisa berguna
-- bisa menghafal HTML, CSS, dan JavaScript
+- bisa menghafal HTML, CSS,
