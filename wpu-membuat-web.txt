@@ -4,3 +4,5 @@ membuat website
 * menambahkan java script dan pyton
 - bisa berguna
 - 1
+- Membuat Java Script Framework
+- Struktur data dasar
